@@ -1,0 +1,17 @@
+{
+  "name": "test-cucumber-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc &6 ./node_modules/@cucumber/cucumber/bin/cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.1.0",
+    "@types/chai": "^4.2.16",
+    "chai": "^4.3.4"
+  }
+}
